@@ -21,7 +21,7 @@ This project is a Power BI dashboard that analyzes [describe the subject of your
 View the live report [Sales Data Analysis](https://bit.ly/4cTkjZc).
 
 ## Screenshot
-![Sales Data Power BI Dashboard](Sales Data Power BI Dashboard.png)
+![Sales Data Power BI Dashboard](Power BI Dashboard image/Sales Data Power BI Dashboard.png)
 
 ## Description
 [Provide a detailed description of the dashboard, the data used, and the insights derived from the analysis.]
