@@ -1,6 +1,4 @@
-# Sales-Data-Analysis
-
-# Power BI Project
+# Power BI: Detailed Sales Data Analysis Project
 
 ## Overview
 This project is a Power BI dashboard that analyzes overall sales revenue, orders, returns and many factors. The dashboard includes various visualizations and DAX measures to provide insights into the data.
