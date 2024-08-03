@@ -16,10 +16,8 @@ This project is a Power BI dashboard that analyzes [describe the subject of your
 - `Power B Dashboard image`: Folder containing screenshots of the dashboard.
 
 ## Live Report
-View the live report [Sales Data Analysis](https://bit.ly/3A9iRTU).
+View the live report [Sales Data Analysis](https://bit.ly/4d7IyTH).
 
 ## Screenshot
 [![Sales Analysis Dashboard](Sales-Data-Dashboard-Image/Sales-Data-PowerBI-Dashboard.png)](Sales-Data-Dashboard-Image/Sales-Data-PowerBI-Dashboard.png)
 
-## Description
-[Provide a detailed description of the dashboard, the data used, and the insights derived from the analysis.]
