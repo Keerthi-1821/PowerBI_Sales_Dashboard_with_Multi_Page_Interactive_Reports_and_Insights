@@ -1,4 +1,4 @@
-# Sales Dashboard with Multi Page Interactive Reports
+# PowerBI : Sales Dashboard with Multi Page Interactive Reports
 
 ## Overview
 This project is about a power bi dashboard with multi page interactive reports that provides an in-depth analysis of overall sales revenue, orders, returns and customers. Each report gives a detailed analysis with multiple visualizations also created multiple DAX measures to provide much more insights into the data.
