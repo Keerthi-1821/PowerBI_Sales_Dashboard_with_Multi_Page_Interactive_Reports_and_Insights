@@ -1,14 +1,7 @@
-# Power BI: Detailed Sales Data Analysis Project
+# PowerBI Sales Dashboard with Multi Page Interactive Reports and Insights
 
 ## Overview
-This project is a Power BI dashboard that analyzes overall sales revenue, orders, returns and many factors. The dashboard includes various visualizations and DAX measures to provide insights into the data.
-
-## Files
-- `PowerBI-Project.pbix`: The main Power BI Desktop file.
-- `# Power BI Project
-
-## Overview
-This project is a Power BI dashboard that analyzes [describe the subject of your analysis]. The dashboard includes various visualizations and DAX measures to provide insights into the data.
+This project is about a power bi dashboard with multi page interactive reports that provides an in-depth analysis of overall sales revenue, orders, returns and customers. Each report gives a detailed analysis with multiple visualizations also created multiple DAX measures to provide much more insights into the data.
 
 ## Files
 - `Power BI - Sales Data Analysis`: The main Power BI Desktop file which consists of DAX Measures, Calculated Columns and various Visualizations.
